@@ -27,3 +27,9 @@ Diferente da automação tradicional baseada em scripts rígidos, este repositó
 1. **Instale as dependências do Playwright:**
    ```bash
    npx playwright install
+
+## 🎓 Créditos e Aprendizado
+
+* Este projeto foi desenvolvido com base nos conhecimentos compartilhados por Lucas (Codemify).
+* **Vídeo Original:** Playwright MCP - How to use AI for Manual Testing.
+* **Canal:** Codemify.
