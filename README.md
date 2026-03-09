@@ -21,12 +21,28 @@ Diferente da automação tradicional baseada em scripts rígidos, este repositó
 * [Node.js](https://nodejs.org/) instalado.
 * Qualquer cliente compatível com MCP.
 * Configuração do servidor MCP do Playwright no seu arquivo.
+* Servidor MCP: @modelcontextprotocol/server-playwright
 
-## Configuração
+## Configuração e Instalações
 
 1. **Instale as dependências do Playwright:**
    ```bash
    npx playwright install
+
+2. **Instale o servidor MCP do Playwright:**
+   ```bash
+    npm install @modelcontextprotocol/server-playwright
+
+4. **Instale o servidor MCP do Playwright:**
+   ```bash
+   npm install @modelcontextprotocol/server-playwright
+
+## Como executar os testes
+1. Abra o arquivo de prompt em prompts/playwright-manual-test-report.md.
+2. No chat da sua ferramenta de IA, peça para ela seguir as instruções do arquivo.
+3. Comando: Acesse [seu link] e teste os fluxos de trabalho de usuário mais críticos
+4. O agente irá gerar o relatório e salvar as evidências em ./manual-tests/.
+   
 
 ## 🎓 Créditos e Aprendizado
 
