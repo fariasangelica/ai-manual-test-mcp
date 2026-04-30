@@ -33,10 +33,6 @@ Diferente da automação tradicional baseada em scripts rígidos, este repositó
    ```bash
     npm install @modelcontextprotocol/server-playwright
 
-4. **Instale o servidor MCP do Playwright:**
-   ```bash
-   npm install @modelcontextprotocol/server-playwright
-
 ## Como executar os testes
 1. Abra o arquivo de prompt em prompts/playwright-manual-test-report.md.
 2. No chat da sua ferramenta de IA, peça para ela seguir as instruções do arquivo.
