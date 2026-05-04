@@ -36,8 +36,8 @@ Exemplo de formato de relatório:
 
 **Problemas Encontrados:** [Liste quaisquer problemas ou resultados inesperados]
 
-Gere um arquivo .md com o relatório no diretório ./playwright-mcp/manual-tests/. Salve TODAS as capturas de tela ou instantâneos OBRIGATORIAMENTE dentro da mesma pasta ./manual-tests/. Não salve arquivos na raiz do projeto.
+Gere um arquivo .md com o relatório no diretório `manual-tests` e inclua quaisquer capturas de tela ou instantâneos relevantes.
 
 Faça capturas de tela ou instantâneos da página, se necessário, para ilustrar problemas ou confirmar o comportamento esperado.
 
-Feche o navegador após concluir o teste manual
+Feche o navegador após concluir o teste manual.
